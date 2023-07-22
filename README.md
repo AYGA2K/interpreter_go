@@ -12,5 +12,4 @@ The interpreter implementation includes the following components:
 
 ## Book
 
-To gain a deeper understanding of the interpreter implementation and the concepts involved, it is highly recommended to read the book [Writing An Interpreter In Go](https://interpreterbook.com/) by Thorsten Ball. The book provides detailed explanations, examples, and exercises to reinforce your understanding.
-
+To gain a deeper understanding of the interpreter implementation and the concepts involved, it is highly recommended to read the book [Writing An Interpreter In Go](https://interpreterbook.com/) by Thorsten Ball.
